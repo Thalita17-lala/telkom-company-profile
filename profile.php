@@ -4,6 +4,7 @@ require 'includes/header.php';
 ?>
 <section class="section">
     <div class="container article-body">
+        <!-- Simulasi Git -->
         <span class="eyebrow">Profil</span>
         <h1>Tentang proyek simulasi Telkom University</h1>
         <p class="lead">Halaman ini digunakan untuk mempraktikkan struktur halaman PHP yang memakai header dan footer bersama.</p>
